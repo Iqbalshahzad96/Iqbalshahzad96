@@ -1,4 +1,4 @@
-Hi, I’m @Iqbalshahzad96,
+Hi, I’m Iqbal shahzad,
 I’m interested in Full Stack Development,
 I’m currently learning Vue.js And Django,
 I’m looking to collaborate on Git Projects,
